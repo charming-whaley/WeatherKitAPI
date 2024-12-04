@@ -2,15 +2,14 @@
 <p>A simple API that makes it easier to work with WeatherKit from Apple.</p>
 
 # Description
-<p>If you always stuck while working with WeatherKit or you want to just do your project rather than focusing on how it works<br>
-then WeatherKitAPI is a great solution for that</p>
+<p>If you always stuck while working with WeatherKit or you want to just do your project rather than focusing on how it works then WeatherKitAPI is a great solution for that</p>
 
 # Getting started
 <p>
-1. Make sure your project version is: iOS17+, macOS15+, watchOS10+, visionOS1+
-2. Download WeatherKitAPI files from the repository using Swift Package Manager
-3. Enable WeatherKit in your project (for Apple Developer Program users only)
-4. Use necessary function from WeatherKitAPI
+1. Make sure your project version is: iOS17+, macOS15+, watchOS10+, visionOS1+<br>
+2. Download WeatherKitAPI files from the repository using Swift Package Manager<br>
+3. Enable WeatherKit in your project (for Apple Developer Program users only)<br>
+4. Use necessary function from WeatherKitAPI<br>
 </p>
 
 # Usage
