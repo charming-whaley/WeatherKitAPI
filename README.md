@@ -20,7 +20,7 @@ It is very important to enable WeatherKit in your project, otherwise nothing wil
 
 <p>You just need to make a reference to WeatherKitAPI shared in your code:</p>
 
-```
+```swift
 struct ContentView : View {
     
     let controller = WeatherKitAPI.shared
